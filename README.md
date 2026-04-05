@@ -29,10 +29,12 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -42,4 +44,12 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0700-search-in-a-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
