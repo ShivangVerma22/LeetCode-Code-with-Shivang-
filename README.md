@@ -16,4 +16,8 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
