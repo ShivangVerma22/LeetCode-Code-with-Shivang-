@@ -19,6 +19,7 @@ This account is for Leetcode problems.
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0058-length-of-last-word) |
 ## Tree
 |  |
@@ -52,4 +53,12 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0547-number-of-provinces) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
