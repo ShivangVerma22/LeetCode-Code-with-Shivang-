@@ -11,6 +11,7 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0009-palindrome-number) |
 ## Recursion
 |  |
 | ------- |
