@@ -44,6 +44,7 @@ This account is for Leetcode problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0374-guess-number-higher-or-lower) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Union-Find
 |  |
@@ -71,4 +72,8 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
