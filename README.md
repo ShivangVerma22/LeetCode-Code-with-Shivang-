@@ -66,6 +66,7 @@ This account is for Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Bit Manipulation
@@ -76,4 +77,8 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0374-guess-number-higher-or-lower) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
