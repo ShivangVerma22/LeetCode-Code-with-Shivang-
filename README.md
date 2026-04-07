@@ -60,6 +60,7 @@ This account is for Leetcode problems.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Backtracking
 |  |
@@ -71,6 +72,7 @@ This account is for Leetcode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -93,4 +95,9 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
