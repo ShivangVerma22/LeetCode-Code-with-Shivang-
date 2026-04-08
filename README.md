@@ -12,6 +12,7 @@ This account is for Leetcode problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -22,6 +23,7 @@ This account is for Leetcode problems.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 ## Tree
 |  |
 | ------- |
@@ -79,6 +81,7 @@ This account is for Leetcode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
 ## Interactive
@@ -102,4 +105,8 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
