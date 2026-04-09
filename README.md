@@ -12,6 +12,7 @@ This account is for Leetcode problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 ## Recursion
 |  |
@@ -81,6 +82,7 @@ This account is for Leetcode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
