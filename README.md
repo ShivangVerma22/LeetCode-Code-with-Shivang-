@@ -13,6 +13,7 @@ This account is for Leetcode problems.
 | [0002-add-two-numbers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 ## Recursion
 |  |
@@ -23,6 +24,7 @@ This account is for Leetcode problems.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 ## Tree
@@ -110,5 +112,6 @@ This account is for Leetcode problems.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
