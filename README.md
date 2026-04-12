@@ -22,6 +22,7 @@ This account is for Leetcode problems.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
@@ -95,6 +96,7 @@ This account is for Leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Stack
 |  |
@@ -114,4 +116,8 @@ This account is for Leetcode problems.
 | ------- |
 | [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
