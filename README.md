@@ -85,6 +85,7 @@ This account is for Leetcode problems.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3861-minimum-capacity-box](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/3861-minimum-capacity-box) |
 ## Bit Manipulation
 |  |
 | ------- |
