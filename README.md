@@ -81,6 +81,7 @@ This account is for Leetcode problems.
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -134,5 +135,6 @@ This account is for Leetcode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
