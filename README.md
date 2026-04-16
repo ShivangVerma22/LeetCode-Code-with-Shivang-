@@ -19,6 +19,7 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ This account is for Leetcode problems.
 | [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
+| [0394-decode-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -111,6 +113,7 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
