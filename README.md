@@ -7,6 +7,7 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0002-add-two-numbers) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +113,7 @@ This account is for Leetcode problems.
 | [0005-longest-palindromic-substring](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
