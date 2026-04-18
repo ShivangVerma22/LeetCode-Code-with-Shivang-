@@ -7,6 +7,7 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0002-add-two-numbers) |
+| [0328-odd-even-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
