@@ -33,6 +33,7 @@ This account is for Leetcode problems.
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 | [0394-decode-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
 ## Tree
 |  |
@@ -124,6 +125,7 @@ This account is for Leetcode problems.
 | [0735-asteroid-collision](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0946-validate-stack-sequences) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
 |  |
