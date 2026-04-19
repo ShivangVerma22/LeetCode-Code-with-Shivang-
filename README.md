@@ -92,6 +92,7 @@ This account is for Leetcode problems.
 | [0724-find-pivot-index](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0946-validate-stack-sequences) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -116,6 +117,7 @@ This account is for Leetcode problems.
 | [0005-longest-palindromic-substring](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
@@ -131,6 +133,7 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
