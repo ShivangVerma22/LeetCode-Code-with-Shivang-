@@ -98,6 +98,7 @@ This account is for Leetcode problems.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3861-minimum-capacity-box](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/3861-minimum-capacity-box) |
 ## Bit Manipulation
@@ -163,4 +164,8 @@ This account is for Leetcode problems.
 | ------- |
 | [0724-find-pivot-index](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1004-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
