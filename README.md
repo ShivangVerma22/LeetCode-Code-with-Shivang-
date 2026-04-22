@@ -101,6 +101,7 @@ This account is for Leetcode problems.
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2899-last-visited-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2899-last-visited-integers) |
 | [3861-minimum-capacity-box](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/3861-minimum-capacity-box) |
 ## Bit Manipulation
 |  |
@@ -151,6 +152,7 @@ This account is for Leetcode problems.
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0946-validate-stack-sequences) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
+| [2899-last-visited-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2899-last-visited-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
