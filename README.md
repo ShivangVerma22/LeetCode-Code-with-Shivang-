@@ -18,6 +18,7 @@ This account is for Leetcode problems.
 | [0029-divide-two-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
+| [1185-day-of-the-week](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1185-day-of-the-week) |
 ## Recursion
 |  |
 | ------- |
