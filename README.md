@@ -95,6 +95,7 @@ This account is for Leetcode problems.
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1004-max-consecutive-ones-iii) |
@@ -134,6 +135,7 @@ This account is for Leetcode problems.
 | [0234-palindrome-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -177,4 +179,8 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2078-two-furthest-houses-with-different-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
