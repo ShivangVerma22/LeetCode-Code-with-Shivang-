@@ -101,6 +101,7 @@ This account is for Leetcode problems.
 | [1004-max-consecutive-ones-iii](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -140,6 +141,7 @@ This account is for Leetcode problems.
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
 ## Sorting
@@ -160,6 +162,7 @@ This account is for Leetcode problems.
 | [0735-asteroid-collision](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0946-validate-stack-sequences) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
 | [2899-last-visited-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2899-last-visited-integers) |
 ## Dynamic Programming
