@@ -99,6 +99,7 @@ This account is for Leetcode problems.
 | [0946-validate-stack-sequences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1441-build-an-array-with-stack-operations) |
@@ -149,10 +150,12 @@ This account is for Leetcode problems.
 | ------- |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [1051-height-checker](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
