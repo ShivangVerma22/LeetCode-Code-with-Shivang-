@@ -39,6 +39,7 @@ This account is for Leetcode problems.
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/3174-clear-digits) |
 ## Tree
 |  |
 | ------- |
@@ -145,6 +146,7 @@ This account is for Leetcode problems.
 | [1441-build-an-array-with-stack-operations](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/3174-clear-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +170,7 @@ This account is for Leetcode problems.
 | [1441-build-an-array-with-stack-operations](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1441-build-an-array-with-stack-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
 | [2899-last-visited-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2899-last-visited-integers) |
+| [3174-clear-digits](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
