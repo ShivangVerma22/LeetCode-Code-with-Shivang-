@@ -18,12 +18,14 @@ This account is for Leetcode problems.
 | [0009-palindrome-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 | [1185-day-of-the-week](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1185-day-of-the-week) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0394-decode-string) |
 ## String
