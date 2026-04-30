@@ -8,6 +8,7 @@ This account is for Leetcode problems.
 | ------- |
 | [0002-add-two-numbers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0328-odd-even-linked-list) |
@@ -133,6 +134,7 @@ This account is for Leetcode problems.
 | [0005-longest-palindromic-substring](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0977-squares-of-a-sorted-array) |
