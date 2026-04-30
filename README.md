@@ -23,6 +23,7 @@ This account is for Leetcode problems.
 | [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
+| [0263-ugly-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0263-ugly-number) |
 | [1185-day-of-the-week](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1185-day-of-the-week) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
