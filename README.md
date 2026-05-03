@@ -102,6 +102,7 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
@@ -176,6 +177,7 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
@@ -209,4 +211,8 @@ This account is for Leetcode problems.
 | ------- |
 | [0739-daily-temperatures](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
