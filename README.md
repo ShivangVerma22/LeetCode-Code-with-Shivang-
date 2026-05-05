@@ -73,6 +73,7 @@ This account is for Leetcode problems.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0374-guess-number-higher-or-lower) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0700-search-in-a-binary-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1004-max-consecutive-ones-iii) |
@@ -101,6 +102,7 @@ This account is for Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
@@ -215,4 +217,8 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
