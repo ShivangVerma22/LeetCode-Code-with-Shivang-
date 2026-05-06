@@ -107,6 +107,7 @@ This account is for Leetcode problems.
 | [0054-spiral-matrix](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0724-find-pivot-index) |
@@ -209,6 +210,7 @@ This account is for Leetcode problems.
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0334-increasing-triplet-subsequence) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Monotonic Stack
 |  |
