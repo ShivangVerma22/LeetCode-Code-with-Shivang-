@@ -125,6 +125,7 @@ This account is for Leetcode problems.
 | [1848-minimum-distance-to-the-target-element](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2899-last-visited-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2899-last-visited-integers) |
 | [3861-minimum-capacity-box](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/3861-minimum-capacity-box) |
 ## Bit Manipulation
@@ -134,6 +135,7 @@ This account is for Leetcode problems.
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2425-bitwise-xor-of-all-pairings) |
 ## Interactive
 |  |
 | ------- |
@@ -225,4 +227,8 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0004-median-of-two-sorted-arrays) |
+## Brainteaser
+|  |
+| ------- |
+| [2425-bitwise-xor-of-all-pairings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2425-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
