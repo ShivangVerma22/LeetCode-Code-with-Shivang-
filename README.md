@@ -12,6 +12,7 @@ This account is for Leetcode problems.
 | [0234-palindrome-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0328-odd-even-linked-list) |
+| [0707-design-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -231,4 +232,8 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2425-bitwise-xor-of-all-pairings) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
