@@ -50,6 +50,7 @@ This account is for Leetcode problems.
 | [0443-string-compression](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/3174-clear-digits) |
@@ -170,6 +171,7 @@ This account is for Leetcode problems.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1544-make-the-string-great](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/3174-clear-digits) |
 ## Sorting
