@@ -46,6 +46,7 @@ This account is for Leetcode problems.
 | [0043-multiply-strings](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0067-add-binary) |
+| [0383-ransom-note](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0443-string-compression) |
@@ -95,6 +96,7 @@ This account is for Leetcode problems.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0383-ransom-note](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
@@ -187,6 +189,7 @@ This account is for Leetcode problems.
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
