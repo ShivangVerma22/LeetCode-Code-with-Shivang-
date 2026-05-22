@@ -52,6 +52,7 @@ This account is for Leetcode problems.
 | [0443-string-compression](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1189-maximum-number-of-balloons) |
 | [1544-make-the-string-great](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1544-make-the-string-great) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1657-determine-if-two-strings-are-close) |
 | [2390-removing-stars-from-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2390-removing-stars-from-a-string) |
@@ -100,6 +101,7 @@ This account is for Leetcode problems.
 | [0387-first-unique-character-in-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
+| [1189-maximum-number-of-balloons](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1657-determine-if-two-strings-are-close) |
@@ -192,6 +194,7 @@ This account is for Leetcode problems.
 | [0383-ransom-note](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1051-height-checker) |
+| [1189-maximum-number-of-balloons](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1657-determine-if-two-strings-are-close) |
 ## Simulation
