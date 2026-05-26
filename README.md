@@ -119,6 +119,7 @@ This account is for Leetcode problems.
 | ------- |
 | [0001-two-sum](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0016-3sum-closest](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
@@ -161,6 +162,7 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0061-rotate-list) |
@@ -190,6 +192,7 @@ This account is for Leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0016-3sum-closest) |
 | [0645-set-mismatch](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1051-height-checker) |
