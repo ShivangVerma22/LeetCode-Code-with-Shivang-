@@ -97,6 +97,7 @@ This account is for Leetcode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0383-ransom-note](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0383-ransom-note) |
@@ -116,6 +117,7 @@ This account is for Leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0054-spiral-matrix) |
