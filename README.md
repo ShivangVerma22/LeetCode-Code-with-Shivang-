@@ -82,6 +82,7 @@ This account is for Leetcode problems.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0374-guess-number-higher-or-lower) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0700-search-in-a-binary-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1004-max-consecutive-ones-iii) |
@@ -119,6 +120,7 @@ This account is for Leetcode problems.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0334-increasing-triplet-subsequence) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -160,6 +162,7 @@ This account is for Leetcode problems.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0061-rotate-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/0844-backspace-string-compare) |
