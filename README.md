@@ -28,6 +28,7 @@ This account is for Leetcode problems.
 | [1185-day-of-the-week](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1185-day-of-the-week) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2235-add-two-integers](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2235-add-two-integers) |
+| [2769-find-the-maximum-achievable-number](https://github.com/ShivangVerma22/LeetCode-Code-with-Shivang-/tree/master/2769-find-the-maximum-achievable-number) |
 ## Recursion
 |  |
 | ------- |
